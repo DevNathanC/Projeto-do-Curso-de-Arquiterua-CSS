@@ -1,0 +1,15 @@
+.menu__links{
+    margin-right: 1.25em;
+    text-decoration: none;
+    color: #808080;
+    text-transform: lowercase;
+}
+
+.menu__links:hover{
+    text-decoration: underline;
+}
+
+.ativo{
+    color: #333333;
+    font-weight: bold;
+}
